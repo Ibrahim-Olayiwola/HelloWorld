@@ -1,0 +1,18 @@
+Getting on the Saddle.
+
+I started the journey of pivoting to Data Analytics this week. A quick google search on the
+foundational knowledge for data analytics will yield results including
+Statistics, Probability, Excel skills, SQL, Data Studio/Tableau, Python, R etc.
+
+For statistics, Khan Academy is a good resource. However I am using Udacity's Introduction
+to Descriptive Statistics course.
+
+So, let's get grooving
+
+Before I begin, it should be noted that I have a background in engineering so I am familiar
+with statistics and probability. For a beginner, I think Khan Academy is the place to go, not
+saying Udacity's course is not beginner friendly but Khan Academy's course was basically made
+for beginners.
+
+Day 1: 
+
